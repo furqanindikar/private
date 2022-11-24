@@ -1,0 +1,101 @@
+
+h2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.company{
+    font-weight: bolder;
+    font-family: Ubuntu;
+    color: #EAC797;
+    font-size: 2.1rem;
+    padding-left: 3%;
+}
+
+.company:hover{
+    color: aliceblue;
+}
+.nav-link{
+    font-weight: bold;
+    color: white;
+    font-size: 1.2rem;
+    padding-left: 3%;
+}
+
+.nav-link:hover{
+    color: aliceblue;
+}
+
+.inside-body{
+    width: 75%;
+    margin: auto;
+    background-color: #1E392A;
+    margin-top: 1%;
+    padding-bottom: 1.8%;
+    border-radius: 25px; 
+    padding-top: 1.8%;
+}
+
+.input-group{
+    width: 75%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.heading{
+    color: white;
+}
+
+
+.btn{
+    background-color: antiquewhite;
+}
+
+
+#body
+{
+    background-color:#3DC37E;
+    padding-bottom: 10%;
+    text-align: center;
+    padding-top: 3%;
+}
+
+
+#header{
+    background-color:#1E392A;
+    
+}
+
+#footer{
+    background-color: #1E392A;
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+#footer p{
+    color: #EAC797;
+    padding-top: 10px;
+}
+
+
+.output1 {
+    font-size: 1.8rem;
+    background-color: #89d18e;
+    width: 75%;
+    margin: auto;
+    border-radius: 25px; 
+    height: 20%;
+}
+
+.output h2{
+    color: black;
+    margin-top: 3%;
+
+}
+
+
+#togg {
+    background-color:#EAC797 ;
+}
